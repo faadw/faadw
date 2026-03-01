@@ -91,7 +91,7 @@ export const burkay = {
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faadw/faadw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/faadw/faadw/output/github-custom-snake.svg" />
 </p>
 
 ---
