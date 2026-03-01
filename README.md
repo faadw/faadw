@@ -1,4 +1,4 @@
-# Hi there, I'm Burkay! 👋
+# Hi there, I'm Burkay.
 
 ### 🚀 I'm a passionate developer on the path to mastering Frontend Development.
 
