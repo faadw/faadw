@@ -14,13 +14,13 @@ I focus on building frontend systems that scale. Clean code, architecture, and p
 
 I've been working with React and JavaScript to build interfaces that are maintainable and predictable. My interest lies in component architecture, design systems, and making complex UIs feel simple.
 
-Currently deepening my knowledge in web performance optimization and advanced React patterns.
+Currently deepening my knowledge in advanced React patterns.
 
 ---
 
 ## Featured Project
 
-**Personal Portfolio** — A deliberate exploration of architecture decisions.
+**Personal Portfolio**
 
 🔗 [Live](https://faadw.github.io/portfolio/)
 
@@ -32,7 +32,7 @@ Currently deepening my knowledge in web performance optimization and advanced Re
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,figma" />
 </p>
 
 ---
@@ -50,11 +50,8 @@ Currently deepening my knowledge in web performance optimization and advanced Re
 
 ---
 
-## Philosophy
+> I write code that doesn't need explaining. The user shouldn't have to think about the interface, and the next developer shouldn't have to think about the code.
 
-> Good UI is visible. Great architecture is invisible.
-
-I write code that doesn't need explaining. The user shouldn't have to think about the interface, and the next developer shouldn't have to think about the code.
 
 ---
 
