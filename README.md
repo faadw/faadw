@@ -18,11 +18,12 @@ Currently deepening my knowledge in advanced React patterns.
 
 ---
 
-## Featured Project
+## Featured Projects
 
-**Personal Portfolio**
+🔗 [**Personal Portfolio**](https://faadw.github.io/portfolio/)
 
-🔗 [Live](https://faadw.github.io/portfolio/)
+🔗 [**CS2 Arbitrage Hub**](https://cs2-arbitrage.vercel.app/)
+
 
 - Custom design system with reusable components
 - Structured for clarity, not just today but months from now
